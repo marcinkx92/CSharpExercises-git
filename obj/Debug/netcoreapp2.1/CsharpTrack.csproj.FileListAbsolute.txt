@@ -1,0 +1,11 @@
+/home/marcinkx/dotNET workspace/CsharpTrack/bin/Debug/netcoreapp2.1/CsharpTrack.deps.json
+/home/marcinkx/dotNET workspace/CsharpTrack/bin/Debug/netcoreapp2.1/CsharpTrack.runtimeconfig.json
+/home/marcinkx/dotNET workspace/CsharpTrack/bin/Debug/netcoreapp2.1/CsharpTrack.runtimeconfig.dev.json
+/home/marcinkx/dotNET workspace/CsharpTrack/bin/Debug/netcoreapp2.1/CsharpTrack.dll
+/home/marcinkx/dotNET workspace/CsharpTrack/bin/Debug/netcoreapp2.1/CsharpTrack.pdb
+/home/marcinkx/dotNET workspace/CsharpTrack/obj/Debug/netcoreapp2.1/CsharpTrack.csprojAssemblyReference.cache
+/home/marcinkx/dotNET workspace/CsharpTrack/obj/Debug/netcoreapp2.1/CsharpTrack.csproj.CoreCompileInputs.cache
+/home/marcinkx/dotNET workspace/CsharpTrack/obj/Debug/netcoreapp2.1/CsharpTrack.AssemblyInfoInputs.cache
+/home/marcinkx/dotNET workspace/CsharpTrack/obj/Debug/netcoreapp2.1/CsharpTrack.AssemblyInfo.cs
+/home/marcinkx/dotNET workspace/CsharpTrack/obj/Debug/netcoreapp2.1/CsharpTrack.dll
+/home/marcinkx/dotNET workspace/CsharpTrack/obj/Debug/netcoreapp2.1/CsharpTrack.pdb
