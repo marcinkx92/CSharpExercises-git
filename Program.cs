@@ -9,5 +9,6 @@ using System.Text;
             StringReverse.StringReverseTest(); //wywołuję metodę statyczną testującą klasę .cs
             LeapYear.LeapYearTest();
             SumOfMultiples.SumOfMultiplesTest();
+            NucleotideCount.NucleotideCountTest();
         }
     }
