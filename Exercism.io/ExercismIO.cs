@@ -7,6 +7,7 @@
             SumOfMultiples.SumOfMultiplesTest();
             Raindrops.RaindropsTest();
             NucleotideCount.NucleotideCountTest();
+            Accumulate.AccumulateTest();
         }
 
     }

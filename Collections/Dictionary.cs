@@ -5,6 +5,7 @@ using System.Collections.Generic;
     {
         /*Słowniki to kolekcja przechwująca pary klucz-wartość 
         W definicji słownika deklarujemy typ klucza oraz typ wartości
+        Główne zalety: metody służące do przezukiwania słownika po kluczu, po wartości
          */
          Dictionary<string,string> MyDictionary;
          public Dictionary(){
@@ -29,12 +30,20 @@ using System.Collections.Generic;
              else return "null";
          }
 
+         public void ListElements(){
+             Console.WriteLine("MyDictionary elements: ");
+             foreach (KeyValuePair<string,string> val in MyDictionary){
+                 Console.Write("Key:{0}, Value:{1} | ",val.Key,val.Value);
+             }
+         }
+
          public static void DictionaryTest(){
              Dictionary dc = new Dictionary();
              dc.AddValues();
              Console.WriteLine("Smith? "+dc.CheckKey("Smith"));
              Console.WriteLine("9999? "+dc.CheckValue("9999"));
              Console.WriteLine("Key: Smith, Value:"+dc.FindValue("Smith"));
+             dc.ListElements();
          }
 
     }
