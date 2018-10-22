@@ -6,9 +6,11 @@ using System.Text;
       
         static void Main()
         {
-            StringReverse.StringReverseTest(); //wywołuję metodę statyczną testującą klasę .cs
-            LeapYear.LeapYearTest();
-            SumOfMultiples.SumOfMultiplesTest();
-            NucleotideCount.NucleotideCountTest();
+            //Exercism.io
+            ExercismIO.Launch();
+
+
+            //Collections
+            Collections.Launch();
         }
     }
