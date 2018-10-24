@@ -10,7 +10,7 @@ using System.Text;
         }
 
         public static void LeapYearTest(){
-            Console.WriteLine("\n---LepaYear---");
+            Console.WriteLine("\n---LeapYear---");
             Console.WriteLine(IsYearLeap(1996)); //true
             Console.WriteLine(IsYearLeap(1997)); //false
             Console.WriteLine(IsYearLeap(2000)); //true
